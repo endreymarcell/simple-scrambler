@@ -75,4 +75,4 @@ if __name__ == '__main__':
         group = int(lastarg[-1])
     else:
         group = 0
-    print(get_scramble())
+    print(get_scramble(group))
